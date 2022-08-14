@@ -55,6 +55,7 @@ namespace Mirror
         {
             if (!NetworkClient.active)
             {
+                
                 // Server + Client
                 if (Application.platform != RuntimePlatform.WebGLPlayer)
                 {
